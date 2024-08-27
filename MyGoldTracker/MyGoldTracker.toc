@@ -1,0 +1,6 @@
+## Interface: 11002
+## Title: MyGoldTracker
+## Notes: Exibe a quantidade atual de ouro, prata e cobre.
+## Author: Shiyatsu and Copilot
+MyGoldTracker.lua
+MyGoldTracker.xml
